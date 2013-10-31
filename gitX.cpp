@@ -7,5 +7,6 @@ int main (int argc , char **argv){
 	printf("fifth change in git X\n");
 	// hotfix
 	// first branch comment
+	// gitX input
 	return 0;
 }
