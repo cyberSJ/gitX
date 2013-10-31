@@ -5,7 +5,6 @@ int main (int argc , char **argv){
 	printf("third change in gitX\n");
 	printf("forth change in gitX2\n");
 	printf("fifth change in git X\n");
-	// hotfix
-	// first branch comment
+	// 1 commit
 	return 0;
 }
