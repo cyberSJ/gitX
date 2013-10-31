@@ -10,5 +10,6 @@ int main (int argc , char **argv){
 	// gitX input
 	// gitx2
 	// gitx2 second comment
+	// After doing git reset --soft HEAD~ 2 times
 	return 0;
 }
