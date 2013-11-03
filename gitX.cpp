@@ -15,7 +15,7 @@ int main (int argc , char **argv){
 	// lindley 2
 	// lindley 3
 	// lindley simulatenous change with testing branch
-	// message from issue branch
-	// second message from issue branch
+	// new hotfix
+	// another advance in issue branch
 	return 0;
 }
