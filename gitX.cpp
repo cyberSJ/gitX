@@ -6,6 +6,6 @@ int main (int argc , char **argv){
 	printf("forth change in gitX2\n");
 	printf("fifth change in git X\n");
 	// branch testing
-	// weird
+	// weird2
 	return 0;
 }
